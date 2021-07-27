@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    background-color: chocolate;
+    width: 100%;
+    height: 100px;
+    text-align: center;
+}
+.banner{
+    background-color: rgb(219, 169, 5);
+    width: 100%;
+    height: 400px;
+    text-align: center;
+}
+.content{
+    overflow: hidden;
+}
+.left_content{
+background-color: darkgreen;
+width:50% ;
+height: 200px;
+text-align: center;
+float: left;
+}
+.right_content{
+    background-color: rgb(12, 209, 223);
+    width:50% ;
+    height: 200px;
+    text-align: center;
+    float: right;
+}
+.second_content{
+    overflow: hidden;
+    text-align: center;
+}
+.long_content{
+    background-color: darkmagenta;
+    width: 75%;
+    height: 150px;
+    float: left;
+
+}
+.short_content{
+    background-color: deeppink;
+    width: 25%;
+    height: 150px;
+    float: right;
+}
+.clint_content{
+   overflow: hidden;
+   text-align: center;
+}
+.clint_one{
+background-color: deeppink;
+width: 25%;
+height: 100px;
+float: left;
+}
+.clint_tow{
+    background-color:indigo;
+    width: 25%;
+    height: 100px;
+    float: left;
+}
+.clint_three{
+    background-color: goldenrod;
+    width: 25%;
+    height: 100px;
+    float: left;
+}
+.clint_four{
+    background-color: brown;
+    width: 25%;
+    height: 100px;
+    float: left;
+}
+.footer{
+    background-color: lightslategrey;
+    width: 100%;
+    height: 100px;
+    text-align: center;
+}
